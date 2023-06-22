@@ -7,7 +7,7 @@
   <name>webapp</name>
   <!-- <description>webapp</description> -->
   
-  <dependencyManagement>
+    <!--<dependencyManagement>
     <dependencies>
       <dependency>
         <groupId>javax.servlet</groupId>
@@ -49,5 +49,5 @@
         <scope>test</scope>
       </dependency>
     </dependencies>
-  </dependencyManagement>
+  </dependencyManagement> -->
 </project>
